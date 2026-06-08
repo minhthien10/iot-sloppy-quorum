@@ -1,1395 +1,3317 @@
 {
-  "temp_room2:1778728970443": {
+  "SENSOR_28:1780887088764": {
     "value": {
-      "value": 41.6,
+      "temperature": 19.25,
       "unit": "°C",
-      "timestamp": "2026-05-14T10:22:50.409391"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778728970.4435828
-  },
-  "co2_office:1778728970975": {
-    "value": {
-      "value": 62.4,
-      "unit": "ug/m3",
-      "timestamp": "2026-05-14T10:22:50.959743"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778728970.9757426
-  },
-  "temp_room2:1778728972027": {
-    "value": {
-      "value": 33.85,
-      "unit": "°C",
-      "timestamp": "2026-05-14T10:22:52.011009"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778728972.0273876
-  },
-  "temp_room1:1778729355316": {
-    "value": {
-      "value": 25.0,
-      "unit": "°C",
-      "status": "emergency"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778729355.3161485
-  },
-  "temp_room1:1778729360214": {
-    "value": {
-      "value": 27.0,
-      "unit": "°C",
-      "status": "emergency"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778729360.2147813
-  },
-  "temp_room1:1778729363882": {
-    "value": {
-      "value": 28.5,
-      "unit": "°C",
-      "status": "emergency"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778729363.8822048
-  },
-  "temp_room1:1778729784467": {
-    "value": {
-      "value": 43.61,
-      "unit": "°C",
-      "timestamp": "2026-05-14T10:36:24.451136"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778729784.4673295
-  },
-  "pm25_outdoor:1778729785504": {
-    "value": {
-      "value": 62.6,
-      "unit": "ug/m3",
-      "timestamp": "2026-05-14T10:36:25.488344"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778729785.5045574
-  },
-  "string:1778730031170": {
-    "value": {
-      "additionalProp1": {}
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730031.1701472
-  },
-  "string:1778730032995": {
-    "value": {
-      "additionalProp1": {}
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730032.9968448
-  },
-  "TEMP_SENSOR_01:1778730728222": {
-    "value": {
-      "temperature": 32.5,
-      "unit": "°C"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730728.2225206
-  },
-  "TEMP_SENSOR_01:1778730729958": {
-    "value": {
-      "temperature": 30.5,
-      "unit": "°C",
-      "note": "during_partition"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730732.8505821
-  },
-  "TEMP_SENSOR_01:1778730730784": {
-    "value": {
-      "temperature": 31.5,
-      "unit": "°C",
-      "note": "during_partition"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730732.8651757
-  },
-  "TEMP_SENSOR_01:1778730732022": {
-    "value": {
-      "temperature": 33.0,
-      "unit": "°C",
-      "note": "during_partition"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730732.8651757
-  },
-  "TEMP_SENSOR_01:1778730731615": {
-    "value": {
-      "temperature": 32.5,
-      "unit": "°C",
-      "note": "during_partition"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730732.862171
-  },
-  "TEMP_SENSOR_01:1778730729547": {
-    "value": {
-      "temperature": 30.0,
-      "unit": "°C",
-      "note": "during_partition"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1778730732.8641703
-  },
-  "SENSOR_08:1780803155948": {
-    "value": {
-      "temperature": 40.48,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:35.932330",
+      "timestamp": "2026-06-08T09:51:28.728691",
       "location": "Room_A",
       "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803155.948271
+    "timestamp": 1780887088.7640243
   },
-  "SENSOR_10:1780803156027": {
+  "SENSOR_16:1780887089819": {
     "value": {
-      "temperature": 35.44,
+      "temperature": 33.25,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:36.011011",
-      "location": "Outdoor",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803156.027074
-  },
-  "SENSOR_17:1780803156194": {
-    "value": {
-      "temperature": 41.58,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:36.178590",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803156.1947036
-  },
-  "SENSOR_08:1780803156337": {
-    "value": {
-      "temperature": 24.26,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:36.335860",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803156.337951
-  },
-  "SENSOR_19:1780803156515": {
-    "value": {
-      "temperature": 30.34,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:36.514950",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803156.5170557
-  },
-  "SENSOR_20:1780803157078": {
-    "value": {
-      "temperature": 19.81,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:37.078760",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803157.0787606
-  },
-  "SENSOR_21:1780803157159": {
-    "value": {
-      "temperature": 25.3,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:37.143522",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803157.1597822
-  },
-  "SENSOR_28:1780803157453": {
-    "value": {
-      "temperature": 19.86,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:37.435846",
-      "location": "Room_A",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803157.455245
-  },
-  "SENSOR_23:1780803157633": {
-    "value": {
-      "temperature": 28.91,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:37.618077",
-      "location": "Outdoor",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803157.6337516
-  },
-  "SENSOR_18:1780803157720": {
-    "value": {
-      "temperature": 36.62,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:37.703807",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803157.7201588
-  },
-  "SENSOR_01:1780803158188": {
-    "value": {
-      "temperature": 32.42,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:38.171199",
+      "timestamp": "2026-06-08T09:51:29.800654",
       "location": "Outdoor",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803158.1895337
+    "timestamp": 1780887089.8191018
   },
-  "SENSOR_10:1780803158246": {
+  "SENSOR_17:1780887090349": {
     "value": {
-      "temperature": 40.91,
+      "temperature": 39.39,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:38.244249",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803158.246606
-  },
-  "SENSOR_16:1780803158303": {
-    "value": {
-      "temperature": 18.32,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:38.301393",
-      "location": "Outdoor",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803158.303226
-  },
-  "SENSOR_10:1780803158430": {
-    "value": {
-      "temperature": 33.8,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:38.428032",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803158.4320722
-  },
-  "SENSOR_18:1780803158603": {
-    "value": {
-      "temperature": 34.9,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:38.586229",
-      "location": "Outdoor",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803158.603035
-  },
-  "SENSOR_11:1780803158952": {
-    "value": {
-      "temperature": 18.43,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:38.919404",
-      "location": "Outdoor",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803158.9524744
-  },
-  "SENSOR_30:1780803159512": {
-    "value": {
-      "temperature": 36.47,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:39.510649",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803159.512138
-  },
-  "SENSOR_16:1780803159758": {
-    "value": {
-      "temperature": 27.33,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:39.744707",
-      "location": "Warehouse",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803159.7596743
-  },
-  "SENSOR_27:1780803160087": {
-    "value": {
-      "temperature": 32.31,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:40.060592",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803160.0890222
-  },
-  "SENSOR_10:1780803160170": {
-    "value": {
-      "temperature": 28.76,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:40.154033",
-      "location": "Warehouse",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803160.1701736
-  },
-  "SENSOR_26:1780803160660": {
-    "value": {
-      "temperature": 44.42,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:40.644459",
-      "location": "Room_B",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803160.660736
-  },
-  "SENSOR_12:1780803160736": {
-    "value": {
-      "temperature": 27.75,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:40.711219",
-      "location": "Outdoor",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803160.7361307
-  },
-  "SENSOR_19:1780803161153": {
-    "value": {
-      "temperature": 21.51,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:41.137245",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803161.1536522
-  },
-  "SENSOR_28:1780803161237": {
-    "value": {
-      "temperature": 38.79,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:41.220712",
-      "location": "Outdoor",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803161.2376115
-  },
-  "SENSOR_07:1780803161624": {
-    "value": {
-      "temperature": 27.03,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:41.624371",
-      "location": "Outdoor",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803161.6289182
-  },
-  "SENSOR_17:1780803162024": {
-    "value": {
-      "temperature": 24.72,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:42.011503",
-      "location": "Outdoor",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803162.026438
-  },
-  "SENSOR_17:1780803162088": {
-    "value": {
-      "temperature": 43.45,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:42.088090",
-      "location": "Outdoor",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803162.0880904
-  },
-  "SENSOR_12:1780803162477": {
-    "value": {
-      "temperature": 24.78,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:42.461324",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803162.4777293
-  },
-  "SENSOR_30:1780803162562": {
-    "value": {
-      "temperature": 35.07,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:42.544287",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803162.5626087
-  },
-  "SENSOR_07:1780803162728": {
-    "value": {
-      "temperature": 38.58,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:42.711185",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803162.728559
-  },
-  "SENSOR_27:1780803162791": {
-    "value": {
-      "temperature": 37.71,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:42.779039",
-      "location": "Warehouse",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803162.791887
-  },
-  "SENSOR_24:1780803163024": {
-    "value": {
-      "temperature": 19.94,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:43.003340",
-      "location": "Room_A",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803163.0248024
-  },
-  "SENSOR_13:1780803163429": {
-    "value": {
-      "temperature": 28.25,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:43.413017",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803163.429462
-  },
-  "SENSOR_02:1780803163504": {
-    "value": {
-      "temperature": 41.63,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:43.491490",
-      "location": "Room_B",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803163.5042443
-  },
-  "SENSOR_08:1780803163578": {
-    "value": {
-      "temperature": 44.4,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:43.562720",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803163.578993
-  },
-  "SENSOR_21:1780803163912": {
-    "value": {
-      "temperature": 28.56,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:43.895035",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803163.9121585
-  },
-  "SENSOR_11:1780803163979": {
-    "value": {
-      "temperature": 21.67,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:43.962222",
-      "location": "Outdoor",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803163.9791942
-  },
-  "SENSOR_20:1780803164062": {
-    "value": {
-      "temperature": 28.42,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:44.044742",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803164.06211
-  },
-  "SENSOR_14:1780803164212": {
-    "value": {
-      "temperature": 33.42,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:44.197546",
-      "location": "Warehouse",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803164.2122724
-  },
-  "SENSOR_25:1780803164296": {
-    "value": {
-      "temperature": 18.26,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:44.270702",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803164.2964854
-  },
-  "SENSOR_07:1780803164386": {
-    "value": {
-      "temperature": 31.91,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:44.370053",
+      "timestamp": "2026-06-08T09:51:30.334392",
       "location": "Room_B",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803164.386599
+    "timestamp": 1780887090.3496518
   },
-  "SENSOR_13:1780803164645": {
+  "SENSOR_14:1780887091949": {
     "value": {
-      "temperature": 20.17,
+      "temperature": 30.93,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:44.629388",
-      "location": "Room_B",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803164.6458778
-  },
-  "SENSOR_18:1780803164737": {
-    "value": {
-      "temperature": 34.4,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:44.720621",
-      "location": "Room_B",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803164.7372746
-  },
-  "SENSOR_05:1780803164821": {
-    "value": {
-      "temperature": 18.72,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:44.795247",
-      "location": "Outdoor",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803164.8210762
-  },
-  "SENSOR_20:1780803165013": {
-    "value": {
-      "temperature": 37.18,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:45.011463",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803165.0138094
-  },
-  "SENSOR_10:1780803165203": {
-    "value": {
-      "temperature": 34.94,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:45.203482",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803165.2034826
-  },
-  "SENSOR_06:1780803165371": {
-    "value": {
-      "temperature": 43.4,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:45.345325",
-      "location": "Outdoor",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803165.3713546
-  },
-  "SENSOR_22:1780803165887": {
-    "value": {
-      "temperature": 40.34,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:45.870037",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803165.887532
-  },
-  "SENSOR_02:1780803166519": {
-    "value": {
-      "temperature": 43.56,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:46.494605",
-      "location": "Warehouse",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803166.5198555
-  },
-  "SENSOR_17:1780803166586": {
-    "value": {
-      "temperature": 38.08,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:46.570170",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803166.5860686
-  },
-  "SENSOR_21:1780803167327": {
-    "value": {
-      "temperature": 22.16,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:47.312474",
-      "location": "Room_A",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803167.3284016
-  },
-  "SENSOR_27:1780803167408": {
-    "value": {
-      "temperature": 28.03,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:47.391213",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803167.4112778
-  },
-  "SENSOR_04:1780803167495": {
-    "value": {
-      "temperature": 29.77,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:47.468332",
-      "location": "Outdoor",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803167.4952192
-  },
-  "SENSOR_15:1780803167577": {
-    "value": {
-      "temperature": 26.79,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:47.560487",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803167.5775456
-  },
-  "SENSOR_13:1780803167747": {
-    "value": {
-      "temperature": 27.48,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:47.731081",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803167.750395
-  },
-  "SENSOR_10:1780803167987": {
-    "value": {
-      "temperature": 32.12,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:47.970191",
-      "location": "Outdoor",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803167.987391
-  },
-  "SENSOR_17:1780803168229": {
-    "value": {
-      "temperature": 42.67,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:48.205637",
-      "location": "Room_B",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803168.2296083
-  },
-  "SENSOR_30:1780803168321": {
-    "value": {
-      "temperature": 31.03,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:48.305307",
-      "location": "Outdoor",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803168.3218944
-  },
-  "SENSOR_03:1780803168396": {
-    "value": {
-      "temperature": 39.27,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:48.378743",
-      "location": "Warehouse",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803168.3960323
-  },
-  "SENSOR_19:1780803168803": {
-    "value": {
-      "temperature": 28.64,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:48.787624",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803168.8039727
-  },
-  "SENSOR_21:1780803168954": {
-    "value": {
-      "temperature": 33.57,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:48.937160",
-      "location": "Room_A",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803168.9544518
-  },
-  "SENSOR_27:1780803169046": {
-    "value": {
-      "temperature": 23.74,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:49.030146",
-      "location": "Outdoor",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803169.0467002
-  },
-  "SENSOR_04:1780803169212": {
-    "value": {
-      "temperature": 19.55,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:49.195588",
-      "location": "Warehouse",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803169.2129364
-  },
-  "SENSOR_22:1780803169287": {
-    "value": {
-      "temperature": 30.43,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:49.270381",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803169.2900012
-  },
-  "SENSOR_27:1780803169362": {
-    "value": {
-      "temperature": 27.35,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:49.345905",
-      "location": "Room_A",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803169.362369
-  },
-  "SENSOR_27:1780803169604": {
-    "value": {
-      "temperature": 27.65,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:49.587323",
-      "location": "Room_A",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803169.6046572
-  },
-  "SENSOR_06:1780803169846": {
-    "value": {
-      "temperature": 40.87,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:49.828983",
-      "location": "Room_A",
-      "status": "normal"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803169.8463678
-  },
-  "SENSOR_10:1780803170179": {
-    "value": {
-      "temperature": 40.7,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:50.162361",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803170.1797497
-  },
-  "SENSOR_11:1780803170346": {
-    "value": {
-      "temperature": 31.57,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:50.329167",
+      "timestamp": "2026-06-08T09:51:31.933848",
       "location": "Warehouse",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803170.3463857
+    "timestamp": 1780887091.9503205
   },
-  "SENSOR_15:1780803170588": {
-    "value": {
-      "temperature": 41.36,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:50.570554",
-      "location": "Room_B",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803170.5881407
-  },
-  "SENSOR_20:1780803170847": {
-    "value": {
-      "temperature": 38.62,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:50.830822",
-      "location": "Room_A",
-      "status": "critical"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803170.8474052
-  },
-  "SENSOR_27:1780803170994": {
+  "SENSOR_14:1780887094074": {
     "value": {
       "temperature": 22.35,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:50.978804",
+      "timestamp": "2026-06-08T09:51:34.057070",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887094.074442
+  },
+  "SENSOR_07:1780887094596": {
+    "value": {
+      "temperature": 28.11,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:34.579682",
       "location": "Room_A",
       "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803170.9945107
+    "timestamp": 1780887094.596149
   },
-  "SENSOR_12:1780803171163": {
+  "SENSOR_30:1780887096150": {
     "value": {
-      "temperature": 21.91,
+      "temperature": 43.17,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:51.137831",
+      "timestamp": "2026-06-08T09:51:36.134794",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887096.150683
+  },
+  "SENSOR_28:1780887098242": {
+    "value": {
+      "temperature": 26.92,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:38.226704",
       "location": "Room_B",
-      "status": "critical"
+      "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803171.1638196
+    "timestamp": 1780887098.2439082
   },
-  "SENSOR_22:1780803171255": {
+  "SENSOR_24:1780887099822": {
     "value": {
-      "temperature": 30.18,
+      "temperature": 20.19,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:51.238832",
-      "location": "Room_A",
+      "timestamp": "2026-06-08T09:51:39.805592",
+      "location": "Warehouse",
       "status": "warning"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803171.255004
+    "timestamp": 1780887099.822262
   },
-  "SENSOR_10:1780803171534": {
+  "SENSOR_12:1780887101420": {
     "value": {
-      "temperature": 23.85,
+      "temperature": 37.64,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:51.532108",
+      "timestamp": "2026-06-08T09:51:41.404477",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887101.4204085
+  },
+  "SENSOR_06:1780887101951": {
+    "value": {
+      "temperature": 23.99,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:41.922434",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887101.953692
+  },
+  "SENSOR_14:1780887102481": {
+    "value": {
+      "temperature": 28.61,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:42.454945",
       "location": "Outdoor",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803171.5361092
+    "timestamp": 1780887102.481611
   },
-  "SENSOR_20:1780803171659": {
+  "SENSOR_08:1780887105080": {
     "value": {
-      "temperature": 34.56,
+      "temperature": 32.54,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:51.657659",
-      "location": "Room_A",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803171.6596646
-  },
-  "SENSOR_04:1780803171892": {
-    "value": {
-      "temperature": 37.71,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:51.875484",
+      "timestamp": "2026-06-08T09:51:45.078517",
       "location": "Room_B",
       "status": "warning"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803171.8941245
+    "timestamp": 1780887264.2276475
   },
-  "SENSOR_10:1780803172269": {
+  "SENSOR_18:1780887109830": {
     "value": {
-      "temperature": 39.69,
+      "temperature": 41.39,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:52.246692",
-      "location": "Warehouse",
+      "timestamp": "2026-06-08T09:51:49.814502",
+      "location": "Room_A",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803172.2698545
+    "timestamp": 1780887264.234635
   },
-  "SENSOR_16:1780803172840": {
+  "SENSOR_06:1780887113015": {
     "value": {
-      "temperature": 21.92,
+      "temperature": 21.02,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:52.824349",
-      "location": "Warehouse",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803172.8445287
-  },
-  "SENSOR_13:1780803172919": {
-    "value": {
-      "temperature": 35.94,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:52.902927",
-      "location": "Room_A",
-      "status": "warning"
-    },
-    "clock": {
-      "gateway": 1
-    },
-    "timestamp": 1780803172.9190657
-  },
-  "SENSOR_18:1780803172997": {
-    "value": {
-      "temperature": 20.59,
-      "unit": "°C",
-      "timestamp": "2026-06-07T10:32:52.981838",
+      "timestamp": "2026-06-08T09:51:52.998661",
       "location": "Room_A",
       "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803173.000535
+    "timestamp": 1780887264.2768414
   },
-  "SENSOR_10:1780803173155": {
+  "SENSOR_06:1780887113542": {
     "value": {
-      "temperature": 29.67,
+      "temperature": 40.5,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:53.138895",
-      "location": "Warehouse",
+      "timestamp": "2026-06-08T09:51:53.526460",
+      "location": "Room_B",
       "status": "warning"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803173.1557362
+    "timestamp": 1780887264.3189116
   },
-  "SENSOR_04:1780803173229": {
+  "SENSOR_22:1780887114069": {
     "value": {
-      "temperature": 27.19,
+      "temperature": 41.22,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:53.227950",
+      "timestamp": "2026-06-08T09:51:54.053546",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3209143
+  },
+  "SENSOR_27:1780887114600": {
+    "value": {
+      "temperature": 41.11,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:54.584518",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.322876
+  },
+  "SENSOR_01:1780887117781": {
+    "value": {
+      "temperature": 32.48,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:57.764661",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3259277
+  },
+  "SENSOR_29:1780887118830": {
+    "value": {
+      "temperature": 21.76,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:58.813930",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2826877
+  },
+  "SENSOR_14:1780887104571": {
+    "value": {
+      "temperature": 36.7,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:44.554575",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.269839
+  },
+  "SENSOR_17:1780887105607": {
+    "value": {
+      "temperature": 31.44,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:45.586887",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2708416
+  },
+  "SENSOR_01:1780887107719": {
+    "value": {
+      "temperature": 44.03,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:47.704188",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.273841
+  },
+  "SENSOR_03:1780887112475": {
+    "value": {
+      "temperature": 24.53,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:52.473295",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.317918
+  },
+  "SENSOR_12:1780887116185": {
+    "value": {
+      "temperature": 27.95,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:56.166522",
       "location": "Room_A",
       "status": "warning"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803173.2299905
+    "timestamp": 1780887264.279644
   },
-  "SENSOR_22:1780803173790": {
+  "SENSOR_26:1780887116719": {
+    "value": {
+      "temperature": 24.82,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:56.701553",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2816563
+  },
+  "SENSOR_04:1780887117248": {
+    "value": {
+      "temperature": 29.18,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:57.232299",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3239012
+  },
+  "SENSOR_22:1780887119344": {
+    "value": {
+      "temperature": 42.43,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:59.341578",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2846518
+  },
+  "SENSOR_30:1780887120389": {
+    "value": {
+      "temperature": 29.56,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:00.373159",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3269086
+  },
+  "SENSOR_13:1780887120932": {
+    "value": {
+      "temperature": 37.99,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:00.916615",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.285689
+  },
+  "SENSOR_18:1780887121468": {
+    "value": {
+      "temperature": 35.35,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:01.444426",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.286687
+  },
+  "SENSOR_03:1780887123084": {
+    "value": {
+      "temperature": 39.34,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:03.067576",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2886896
+  },
+  "SENSOR_29:1780887124139": {
+    "value": {
+      "temperature": 37.09,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:04.138215",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3290489
+  },
+  "SENSOR_13:1780887124686": {
+    "value": {
+      "temperature": 37.52,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:04.670231",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2896528
+  },
+  "SENSOR_12:1780887126810": {
+    "value": {
+      "temperature": 26.73,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:06.786423",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2926884
+  },
+  "SENSOR_25:1780887127359": {
+    "value": {
+      "temperature": 43.59,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:07.343599",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.2946563
+  },
+  "SENSOR_05:1780887127890": {
+    "value": {
+      "temperature": 22.41,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:07.874655",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3337116
+  },
+  "SENSOR_27:1780887130570": {
+    "value": {
+      "temperature": 23.95,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:10.553645",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.297856
+  },
+  "SENSOR_29:1780887131636": {
+    "value": {
+      "temperature": 24.13,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:11.620612",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.334712
+  },
+  "SENSOR_16:1780887132174": {
+    "value": {
+      "temperature": 25.4,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:12.158005",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.299852
+  },
+  "SENSOR_04:1780887132705": {
+    "value": {
+      "temperature": 18.78,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:12.688861",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3367114
+  },
+  "SENSOR_01:1780887133244": {
+    "value": {
+      "temperature": 41.97,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:13.228657",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3377125
+  },
+  "SENSOR_09:1780887134315": {
+    "value": {
+      "temperature": 26.29,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:14.291039",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3008504
+  },
+  "SENSOR_08:1780887134854": {
+    "value": {
+      "temperature": 21.68,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:14.839157",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3028135
+  },
+  "SENSOR_13:1780887135392": {
+    "value": {
+      "temperature": 36.88,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:15.375549",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3397114
+  },
+  "SENSOR_24:1780887104043": {
+    "value": {
+      "temperature": 41.53,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:44.040111",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3113916
+  },
+  "SENSOR_30:1780887106125": {
+    "value": {
+      "temperature": 44.08,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:46.109648",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3138783
+  },
+  "SENSOR_27:1780887110353": {
+    "value": {
+      "temperature": 29.54,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:51:50.336887",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3159115
+  },
+  "SENSOR_06:1780887125219": {
+    "value": {
+      "temperature": 36.73,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:05.203040",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3317146
+  },
+  "SENSOR_12:1780887137509": {
+    "value": {
+      "temperature": 31.92,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:17.493229",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3407133
+  },
+  "SENSOR_19:1780887138592": {
+    "value": {
+      "temperature": 21.94,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:18.575959",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.342711
+  },
+  "SENSOR_25:1780887139142": {
+    "value": {
+      "temperature": 42.92,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:19.124146",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3437126
+  },
+  "SENSOR_14:1780887139674": {
+    "value": {
+      "temperature": 28.54,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:19.671941",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3464806
+  },
+  "SENSOR_01:1780887140209": {
+    "value": {
+      "temperature": 20.78,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:20.194797",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.348619
+  },
+  "SENSOR_19:1780887140753": {
+    "value": {
+      "temperature": 30.64,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:20.734740",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3506074
+  },
+  "SENSOR_12:1780887142366": {
+    "value": {
+      "temperature": 28.6,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:22.350830",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3516066
+  },
+  "SENSOR_14:1780887142907": {
+    "value": {
+      "temperature": 31.72,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:22.891414",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3536065
+  },
+  "SENSOR_08:1780887143438": {
+    "value": {
+      "temperature": 43.76,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:23.423163",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3555722
+  },
+  "SENSOR_20:1780887144503": {
+    "value": {
+      "temperature": 20.52,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:24.487518",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3565724
+  },
+  "SENSOR_10:1780887145038": {
+    "value": {
+      "temperature": 32.53,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:25.020089",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.358609
+  },
+  "SENSOR_24:1780887145569": {
+    "value": {
+      "temperature": 36.99,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:25.553223",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3605702
+  },
+  "SENSOR_16:1780887146103": {
+    "value": {
+      "temperature": 38.2,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:26.087372",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3623316
+  },
+  "SENSOR_17:1780887146616": {
+    "value": {
+      "temperature": 19.68,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:26.604613",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3649962
+  },
+  "SENSOR_01:1780887147682": {
+    "value": {
+      "temperature": 44.36,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:27.672328",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3670032
+  },
+  "SENSOR_03:1780887148221": {
+    "value": {
+      "temperature": 24.52,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:28.206397",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3690019
+  },
+  "SENSOR_10:1780887148775": {
+    "value": {
+      "temperature": 20.72,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:28.754541",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3710005
+  },
+  "SENSOR_03:1780887149318": {
+    "value": {
+      "temperature": 31.92,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:29.301460",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3730016
+  },
+  "SENSOR_07:1780887150355": {
+    "value": {
+      "temperature": 37.43,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:30.337830",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3750021
+  },
+  "SENSOR_28:1780887150904": {
+    "value": {
+      "temperature": 26.66,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:30.887764",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3770018
+  },
+  "SENSOR_11:1780887151984": {
+    "value": {
+      "temperature": 20.77,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:31.967607",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3791575
+  },
+  "SENSOR_20:1780887154122": {
+    "value": {
+      "temperature": 33.59,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:34.106731",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3814244
+  },
+  "SENSOR_16:1780887155185": {
+    "value": {
+      "temperature": 33.94,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:35.169269",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3834307
+  },
+  "SENSOR_12:1780887155723": {
+    "value": {
+      "temperature": 24.09,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:35.705838",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3854344
+  },
+  "SENSOR_08:1780887156242": {
+    "value": {
+      "temperature": 32.6,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:36.239652",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.38743
+  },
+  "SENSOR_23:1780887156785": {
+    "value": {
+      "temperature": 27.94,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:36.768734",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3894331
+  },
+  "SENSOR_05:1780887158399": {
+    "value": {
+      "temperature": 22.57,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:38.383154",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3914297
+  },
+  "SENSOR_15:1780887158951": {
+    "value": {
+      "temperature": 38.38,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:38.934592",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3934345
+  },
+  "SENSOR_04:1780887159484": {
+    "value": {
+      "temperature": 41.2,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:39.467973",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.3960915
+  },
+  "SENSOR_14:1780887160012": {
+    "value": {
+      "temperature": 33.04,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:40.001228",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.400113
+  },
+  "SENSOR_17:1780887160556": {
+    "value": {
+      "temperature": 43.41,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:40.539419",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4021094
+  },
+  "SENSOR_01:1780887161641": {
+    "value": {
+      "temperature": 19.87,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:41.625129",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.404114
+  },
+  "SENSOR_23:1780887162735": {
+    "value": {
+      "temperature": 40.75,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:42.719175",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4061089
+  },
+  "SENSOR_16:1780887163280": {
+    "value": {
+      "temperature": 23.64,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:43.263466",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4081461
+  },
+  "SENSOR_03:1780887164906": {
+    "value": {
+      "temperature": 32.8,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:44.890652",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4101496
+  },
+  "SENSOR_13:1780887166023": {
+    "value": {
+      "temperature": 34.07,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:46.007010",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4133072
+  },
+  "SENSOR_08:1780887167665": {
+    "value": {
+      "temperature": 21.73,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:47.649642",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4167633
+  },
+  "SENSOR_08:1780887169312": {
+    "value": {
+      "temperature": 27.01,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:49.296139",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4187584
+  },
+  "SENSOR_16:1780887170956": {
+    "value": {
+      "temperature": 36.43,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:50.939722",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4217238
+  },
+  "SENSOR_29:1780887172065": {
+    "value": {
+      "temperature": 37.0,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:52.049714",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4237607
+  },
+  "SENSOR_11:1780887173167": {
+    "value": {
+      "temperature": 23.17,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:53.150731",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4257588
+  },
+  "SENSOR_17:1780887174259": {
+    "value": {
+      "temperature": 39.25,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:54.256194",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4288523
+  },
+  "SENSOR_22:1780887174822": {
+    "value": {
+      "temperature": 41.45,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:54.806196",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4325151
+  },
+  "SENSOR_12:1780887175371": {
+    "value": {
+      "temperature": 29.86,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:55.355422",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4345176
+  },
+  "SENSOR_27:1780887178132": {
+    "value": {
+      "temperature": 30.97,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:58.115501",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4374774
+  },
+  "SENSOR_05:1780887178661": {
+    "value": {
+      "temperature": 33.25,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:58.659031",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4395137
+  },
+  "SENSOR_02:1780887179208": {
+    "value": {
+      "temperature": 18.3,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:59.191574",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4424791
+  },
+  "SENSOR_20:1780887179779": {
+    "value": {
+      "temperature": 26.75,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:52:59.751781",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4450362
+  },
+  "SENSOR_23:1780887180335": {
+    "value": {
+      "temperature": 41.08,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:00.319481",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4472475
+  },
+  "SENSOR_10:1780887181438": {
+    "value": {
+      "temperature": 23.24,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:01.422311",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4513028
+  },
+  "SENSOR_02:1780887183655": {
+    "value": {
+      "temperature": 26.61,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:03.639952",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4542632
+  },
+  "SENSOR_01:1780887184761": {
+    "value": {
+      "temperature": 33.05,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:04.744440",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.456304
+  },
+  "SENSOR_23:1780887185312": {
+    "value": {
+      "temperature": 33.68,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:05.310367",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4592638
+  },
+  "SENSOR_01:1780887187507": {
+    "value": {
+      "temperature": 21.74,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:07.491537",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4613059
+  },
+  "SENSOR_13:1780887188064": {
+    "value": {
+      "temperature": 27.2,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:08.049177",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4656365
+  },
+  "SENSOR_26:1780887188620": {
+    "value": {
+      "temperature": 42.23,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:08.603676",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4686456
+  },
+  "SENSOR_14:1780887189756": {
+    "value": {
+      "temperature": 24.25,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:09.734025",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4706798
+  },
+  "SENSOR_01:1780887190874": {
+    "value": {
+      "temperature": 23.37,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:10.857261",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4736814
+  },
+  "SENSOR_15:1780887192013": {
+    "value": {
+      "temperature": 28.29,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:11.990184",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.476661
+  },
+  "SENSOR_15:1780887193687": {
+    "value": {
+      "temperature": 20.55,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:13.671460",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.480577
+  },
+  "SENSOR_14:1780887194251": {
+    "value": {
+      "temperature": 29.68,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:14.235237",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4842367
+  },
+  "SENSOR_05:1780887194805": {
+    "value": {
+      "temperature": 27.13,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:14.789133",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.487241
+  },
+  "SENSOR_11:1780887195371": {
+    "value": {
+      "temperature": 24.35,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:15.356398",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4892755
+  },
+  "SENSOR_18:1780887195936": {
+    "value": {
+      "temperature": 19.78,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:15.920101",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.4922724
+  },
+  "SENSOR_26:1780887196491": {
     "value": {
       "temperature": 43.0,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:53.775214",
-      "location": "Room_B",
+      "timestamp": "2026-06-08T09:53:16.475203",
+      "location": "Outdoor",
       "status": "warning"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803173.790601
+    "timestamp": 1780887264.49543
   },
-  "SENSOR_23:1780803174167": {
+  "SENSOR_17:1780887197049": {
     "value": {
-      "temperature": 18.42,
+      "temperature": 24.43,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:54.152356",
-      "location": "Room_B",
-      "status": "warning"
+      "timestamp": "2026-06-08T09:53:17.034115",
+      "location": "Warehouse",
+      "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803174.171656
+    "timestamp": 1780887264.5000887
   },
-  "SENSOR_08:1780803174253": {
+  "SENSOR_08:1780887198183": {
     "value": {
-      "temperature": 29.92,
+      "temperature": 33.34,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:54.237690",
+      "timestamp": "2026-06-08T09:53:18.167568",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5021195
+  },
+  "SENSOR_03:1780887199313": {
+    "value": {
+      "temperature": 44.77,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:19.309666",
       "location": "Warehouse",
       "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803174.253402
+    "timestamp": 1780887264.5051196
   },
-  "SENSOR_22:1780803174330": {
+  "SENSOR_12:1780887200450": {
     "value": {
-      "temperature": 20.97,
+      "temperature": 29.67,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:54.315555",
-      "location": "Room_B",
-      "status": "warning"
+      "timestamp": "2026-06-08T09:53:20.434241",
+      "location": "Warehouse",
+      "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803174.3306892
+    "timestamp": 1780887264.5081236
   },
-  "SENSOR_13:1780803174488": {
+  "SENSOR_02:1780887202139": {
     "value": {
-      "temperature": 28.7,
+      "temperature": 24.22,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:54.463238",
+      "timestamp": "2026-06-08T09:53:22.123447",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.511119
+  },
+  "SENSOR_02:1780887203274": {
+    "value": {
+      "temperature": 30.46,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:23.259365",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5161211
+  },
+  "SENSOR_06:1780887204956": {
+    "value": {
+      "temperature": 24.49,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:24.954872",
       "location": "Outdoor",
       "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803174.4886067
+    "timestamp": 1780887264.5191662
   },
-  "SENSOR_15:1780803174729": {
+  "SENSOR_26:1780887206112": {
     "value": {
-      "temperature": 38.24,
+      "temperature": 39.57,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:54.725980",
+      "timestamp": "2026-06-08T09:53:26.091366",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5221634
+  },
+  "SENSOR_10:1780887206662": {
+    "value": {
+      "temperature": 18.27,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:26.658159",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.525162
+  },
+  "SENSOR_12:1780887207242": {
+    "value": {
+      "temperature": 23.21,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:27.225952",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5281715
+  },
+  "SENSOR_15:1780887214092": {
+    "value": {
+      "temperature": 42.31,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:34.077198",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5333407
+  },
+  "SENSOR_29:1780887215228": {
+    "value": {
+      "temperature": 27.26,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:35.211780",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5363383
+  },
+  "SENSOR_14:1780887216925": {
+    "value": {
+      "temperature": 24.8,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:36.909066",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5393362
+  },
+  "SENSOR_21:1780887217497": {
+    "value": {
+      "temperature": 30.98,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:37.481830",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.542342
+  },
+  "SENSOR_09:1780887218074": {
+    "value": {
+      "temperature": 20.42,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:38.057903",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5464952
+  },
+  "SENSOR_10:1780887219218": {
+    "value": {
+      "temperature": 34.22,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:39.201814",
       "location": "Room_A",
       "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803174.7297335
+    "timestamp": 1780887264.5505264
   },
-  "SENSOR_07:1780803174837": {
+  "SENSOR_19:1780887220348": {
     "value": {
-      "temperature": 33.21,
+      "temperature": 18.9,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:54.820915",
+      "timestamp": "2026-06-08T09:53:40.332369",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5535252
+  },
+  "SENSOR_15:1780887221528": {
+    "value": {
+      "temperature": 32.07,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:41.511637",
       "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5565252
+  },
+  "SENSOR_10:1780887222684": {
+    "value": {
+      "temperature": 26.01,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:42.668388",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5604925
+  },
+  "SENSOR_06:1780887223260": {
+    "value": {
+      "temperature": 33.42,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:43.244189",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.564239
+  },
+  "SENSOR_24:1780887224402": {
+    "value": {
+      "temperature": 31.53,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:44.385548",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5684366
+  },
+  "SENSOR_30:1780887224987": {
+    "value": {
+      "temperature": 19.22,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:44.971164",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.571437
+  },
+  "SENSOR_22:1780887225573": {
+    "value": {
+      "temperature": 30.82,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:45.557985",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.574437
+  },
+  "SENSOR_20:1780887226134": {
+    "value": {
+      "temperature": 28.96,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:46.119482",
+      "location": "Room_A",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803174.8379846
+    "timestamp": 1780887264.5785508
   },
-  "SENSOR_24:1780803174993": {
+  "SENSOR_19:1780887226720": {
     "value": {
-      "temperature": 22.67,
+      "temperature": 19.41,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:54.977054",
+      "timestamp": "2026-06-08T09:53:46.704376",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5832367
+  },
+  "SENSOR_07:1780887227304": {
+    "value": {
+      "temperature": 25.94,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:47.288005",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5872035
+  },
+  "SENSOR_27:1780887228449": {
+    "value": {
+      "temperature": 34.91,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:48.434607",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.590237
+  },
+  "SENSOR_22:1780887229027": {
+    "value": {
+      "temperature": 42.38,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:49.011422",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.594201
+  },
+  "SENSOR_12:1780887230260": {
+    "value": {
+      "temperature": 33.39,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:50.244423",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.5989213
+  },
+  "SENSOR_06:1780887232607": {
+    "value": {
+      "temperature": 44.33,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:52.577032",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6029317
+  },
+  "SENSOR_22:1780887233193": {
+    "value": {
+      "temperature": 32.17,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:53.177160",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6059659
+  },
+  "SENSOR_26:1780887233747": {
+    "value": {
+      "temperature": 43.59,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:53.745024",
       "location": "Outdoor",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803174.9933748
+    "timestamp": 1780887264.6099281
   },
-  "SENSOR_12:1780803175415": {
+  "SENSOR_27:1780887234340": {
     "value": {
-      "temperature": 23.93,
+      "temperature": 37.79,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:55.412237",
-      "location": "Room_B",
-      "status": "critical"
+      "timestamp": "2026-06-08T09:53:54.323912",
+      "location": "Outdoor",
+      "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803175.4193683
+    "timestamp": 1780887264.6137757
   },
-  "SENSOR_16:1780803175653": {
+  "SENSOR_06:1780887235499": {
     "value": {
-      "temperature": 32.16,
+      "temperature": 41.62,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:55.637779",
+      "timestamp": "2026-06-08T09:53:55.483350",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6187108
+  },
+  "SENSOR_28:1780887237226": {
+    "value": {
+      "temperature": 43.48,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:57.208886",
       "location": "Warehouse",
       "status": "normal"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803175.6538842
+    "timestamp": 1780887264.6217153
   },
-  "SENSOR_20:1780803175831": {
+  "SENSOR_27:1780887238372": {
     "value": {
-      "temperature": 38.14,
+      "temperature": 18.83,
       "unit": "°C",
-      "timestamp": "2026-06-07T10:32:55.814766",
+      "timestamp": "2026-06-08T09:53:58.357779",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.625716
+  },
+  "SENSOR_16:1780887238933": {
+    "value": {
+      "temperature": 38.73,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:53:58.931617",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6299007
+  },
+  "SENSOR_23:1780887242424": {
+    "value": {
+      "temperature": 44.21,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:02.409394",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6337624
+  },
+  "SENSOR_27:1780887243591": {
+    "value": {
+      "temperature": 44.81,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:03.575626",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6377623
+  },
+  "SENSOR_01:1780887244172": {
+    "value": {
+      "temperature": 20.13,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:04.156102",
       "location": "Warehouse",
       "status": "critical"
     },
     "clock": {
       "gateway": 1
     },
-    "timestamp": 1780803175.8313024
+    "timestamp": 1780887264.6417274
+  },
+  "SENSOR_27:1780887245300": {
+    "value": {
+      "temperature": 37.72,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:05.284963",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.644762
+  },
+  "SENSOR_05:1780887249921": {
+    "value": {
+      "temperature": 30.74,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:09.905508",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6506188
+  },
+  "SENSOR_17:1780887252267": {
+    "value": {
+      "temperature": 44.39,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:12.251963",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6536531
+  },
+  "SENSOR_01:1780887252827": {
+    "value": {
+      "temperature": 33.0,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:12.825148",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6576612
+  },
+  "SENSOR_12:1780887254565": {
+    "value": {
+      "temperature": 43.65,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:14.548795",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6616588
+  },
+  "SENSOR_06:1780887256285": {
+    "value": {
+      "temperature": 30.5,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:16.269855",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.667265
+  },
+  "SENSOR_30:1780887256864": {
+    "value": {
+      "temperature": 32.63,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:16.862266",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6712584
+  },
+  "SENSOR_17:1780887258649": {
+    "value": {
+      "temperature": 22.03,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:18.633969",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6752584
+  },
+  "SENSOR_29:1780887259247": {
+    "value": {
+      "temperature": 42.74,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:19.244841",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6795511
+  },
+  "SENSOR_18:1780887259870": {
+    "value": {
+      "temperature": 41.99,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:19.857188",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6849709
+  },
+  "SENSOR_05:1780887261045": {
+    "value": {
+      "temperature": 37.75,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:21.029501",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6889715
+  },
+  "SENSOR_02:1780887262243": {
+    "value": {
+      "temperature": 26.93,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:22.227328",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6930087
+  },
+  "SENSOR_20:1780887262829": {
+    "value": {
+      "temperature": 43.88,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:22.813130",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.6976588
+  },
+  "SENSOR_10:1780887264012": {
+    "value": {
+      "temperature": 32.48,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:23.990208",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.701706
+  },
+  "SENSOR_27:1780887264725": {
+    "value": {
+      "temperature": 31.18,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:24.595407",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887264.7252975
+  },
+  "SENSOR_18:1780887265304": {
+    "value": {
+      "temperature": 43.62,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:25.289167",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887265.3214183
+  },
+  "SENSOR_04:1780887265890": {
+    "value": {
+      "temperature": 41.83,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:25.874163",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887265.9065213
+  },
+  "SENSOR_01:1780887266479": {
+    "value": {
+      "temperature": 21.74,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:26.463590",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887266.4794452
+  },
+  "SENSOR_24:1780887267047": {
+    "value": {
+      "temperature": 43.13,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:27.032641",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887267.0478485
+  },
+  "SENSOR_07:1780887267632": {
+    "value": {
+      "temperature": 36.8,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:27.617240",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887267.6501935
+  },
+  "SENSOR_19:1780887268230": {
+    "value": {
+      "temperature": 26.78,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:28.214765",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887268.246843
+  },
+  "SENSOR_17:1780887268828": {
+    "value": {
+      "temperature": 41.81,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:28.811785",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887268.8283007
+  },
+  "SENSOR_16:1780887269407": {
+    "value": {
+      "temperature": 41.44,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:29.390618",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887269.407317
+  },
+  "SENSOR_19:1780887269955": {
+    "value": {
+      "temperature": 28.83,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:29.938912",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887269.9678545
+  },
+  "SENSOR_13:1780887270535": {
+    "value": {
+      "temperature": 29.66,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:30.533595",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887270.5355968
+  },
+  "SENSOR_12:1780887271125": {
+    "value": {
+      "temperature": 26.48,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:31.108977",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887271.1255958
+  },
+  "SENSOR_06:1780887271673": {
+    "value": {
+      "temperature": 32.94,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:31.671333",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887271.6733668
+  },
+  "SENSOR_18:1780887272295": {
+    "value": {
+      "temperature": 44.18,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:32.277743",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887272.3117578
+  },
+  "SENSOR_15:1780887272879": {
+    "value": {
+      "temperature": 41.61,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:32.860978",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887272.8944633
+  },
+  "SENSOR_01:1780887273479": {
+    "value": {
+      "temperature": 39.06,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:33.461634",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887273.4790778
+  },
+  "SENSOR_05:1780887274066": {
+    "value": {
+      "temperature": 36.97,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:34.045383",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887274.0665164
+  },
+  "SENSOR_29:1780887274646": {
+    "value": {
+      "temperature": 19.68,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:34.629991",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887274.6466017
+  },
+  "SENSOR_03:1780887275226": {
+    "value": {
+      "temperature": 35.29,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:35.213519",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887275.244731
+  },
+  "SENSOR_06:1780887275829": {
+    "value": {
+      "temperature": 29.04,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:35.811879",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887275.829755
+  },
+  "SENSOR_25:1780887276410": {
+    "value": {
+      "temperature": 29.27,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:36.394530",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887276.4100995
+  },
+  "SENSOR_08:1780887277013": {
+    "value": {
+      "temperature": 27.92,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:36.996801",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887277.0132952
+  },
+  "SENSOR_17:1780887277607": {
+    "value": {
+      "temperature": 42.47,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:37.591351",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887277.6278162
+  },
+  "SENSOR_16:1780887278216": {
+    "value": {
+      "temperature": 23.88,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:38.190819",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887278.216528
+  },
+  "SENSOR_11:1780887278795": {
+    "value": {
+      "temperature": 32.86,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:38.793722",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887278.8133044
+  },
+  "SENSOR_14:1780887279349": {
+    "value": {
+      "temperature": 29.79,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:39.347208",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887279.3497758
+  },
+  "SENSOR_14:1780887279976": {
+    "value": {
+      "temperature": 38.06,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:39.960058",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887279.9761205
+  },
+  "SENSOR_26:1780887280567": {
+    "value": {
+      "temperature": 37.27,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:40.555633",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887280.5674088
+  },
+  "SENSOR_09:1780887281165": {
+    "value": {
+      "temperature": 36.57,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:41.149637",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887281.1659768
+  },
+  "SENSOR_16:1780887281737": {
+    "value": {
+      "temperature": 38.4,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:41.735654",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887281.7375457
+  },
+  "SENSOR_04:1780887282350": {
+    "value": {
+      "temperature": 26.85,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:42.326576",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887282.3507721
+  },
+  "SENSOR_10:1780887282931": {
+    "value": {
+      "temperature": 25.48,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:42.914669",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887282.931267
+  },
+  "SENSOR_26:1780887283524": {
+    "value": {
+      "temperature": 34.27,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:43.509074",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887283.5288563
+  },
+  "SENSOR_19:1780887284111": {
+    "value": {
+      "temperature": 43.18,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:44.094359",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887284.1292737
+  },
+  "SENSOR_29:1780887284696": {
+    "value": {
+      "temperature": 21.23,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:44.680014",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887284.696595
+  },
+  "SENSOR_29:1780887285325": {
+    "value": {
+      "temperature": 39.87,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:45.308836",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887285.325224
+  },
+  "SENSOR_23:1780887285902": {
+    "value": {
+      "temperature": 33.26,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:45.885758",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887285.9022167
+  },
+  "SENSOR_14:1780887286495": {
+    "value": {
+      "temperature": 19.04,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:46.479181",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887286.4956715
+  },
+  "SENSOR_23:1780887287091": {
+    "value": {
+      "temperature": 36.71,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:47.075791",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887287.0919943
+  },
+  "SENSOR_09:1780887287664": {
+    "value": {
+      "temperature": 39.67,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:47.648156",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887287.6642008
+  },
+  "SENSOR_15:1780887288251": {
+    "value": {
+      "temperature": 19.02,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:48.249846",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887288.262919
+  },
+  "SENSOR_07:1780887288858": {
+    "value": {
+      "temperature": 21.94,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:48.842561",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887288.858005
+  },
+  "SENSOR_02:1780887289439": {
+    "value": {
+      "temperature": 22.62,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:49.424000",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887289.4586508
+  },
+  "SENSOR_07:1780887290040": {
+    "value": {
+      "temperature": 39.2,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:50.024157",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887290.040053
+  },
+  "SENSOR_03:1780887290654": {
+    "value": {
+      "temperature": 27.01,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:50.638762",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887290.6544387
+  },
+  "SENSOR_04:1780887291276": {
+    "value": {
+      "temperature": 40.51,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:51.259505",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887291.2760963
+  },
+  "SENSOR_29:1780887291889": {
+    "value": {
+      "temperature": 33.58,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:51.873717",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887291.9059613
+  },
+  "SENSOR_26:1780887292471": {
+    "value": {
+      "temperature": 31.32,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:52.454692",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887292.4901288
+  },
+  "SENSOR_23:1780887293076": {
+    "value": {
+      "temperature": 28.23,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:53.060403",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887293.0946815
+  },
+  "SENSOR_14:1780887293660": {
+    "value": {
+      "temperature": 35.95,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:53.643633",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887293.6600125
+  },
+  "SENSOR_06:1780887295096": {
+    "value": {
+      "temperature": 24.89,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:54.248660",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887295.096677
+  },
+  "SENSOR_12:1780887295674": {
+    "value": {
+      "temperature": 39.29,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:55.658294",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887295.674268
+  },
+  "SENSOR_19:1780887298033": {
+    "value": {
+      "temperature": 37.63,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:57.363945",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887298.0397959
+  },
+  "SENSOR_11:1780887298594": {
+    "value": {
+      "temperature": 27.88,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:54:58.578127",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887298.6008625
+  },
+  "SENSOR_20:1780887301179": {
+    "value": {
+      "temperature": 36.4,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:01.155283",
+      "location": "Warehouse",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887301.1795378
+  },
+  "SENSOR_21:1780887302761": {
+    "value": {
+      "temperature": 27.72,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:02.744714",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887302.7611663
+  },
+  "SENSOR_13:1780887303294": {
+    "value": {
+      "temperature": 23.48,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:03.278505",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887303.3010497
+  },
+  "SENSOR_03:1780887303827": {
+    "value": {
+      "temperature": 22.89,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:03.810703",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887303.8271315
+  },
+  "SENSOR_17:1780887304349": {
+    "value": {
+      "temperature": 41.53,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:04.347707",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887304.3577154
+  },
+  "SENSOR_29:1780887305420": {
+    "value": {
+      "temperature": 32.55,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:05.404929",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887305.4266484
+  },
+  "SENSOR_24:1780887305955": {
+    "value": {
+      "temperature": 44.96,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:05.939793",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887305.9618516
+  },
+  "SENSOR_27:1780887306489": {
+    "value": {
+      "temperature": 29.93,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:06.472604",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887306.4897342
+  },
+  "SENSOR_19:1780887307005": {
+    "value": {
+      "temperature": 25.64,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:06.990221",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887307.0057979
+  },
+  "SENSOR_07:1780887307535": {
+    "value": {
+      "temperature": 27.81,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:07.519971",
+      "location": "Room_A",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887307.535203
+  },
+  "SENSOR_01:1780887309673": {
+    "value": {
+      "temperature": 36.53,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:09.671913",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887309.673915
+  },
+  "SENSOR_01:1780887310746": {
+    "value": {
+      "temperature": 33.01,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:10.729869",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887310.7461
+  },
+  "SENSOR_18:1780887312336": {
+    "value": {
+      "temperature": 28.23,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:12.334101",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887312.3421073
+  },
+  "SENSOR_20:1780887312871": {
+    "value": {
+      "temperature": 40.87,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:12.855792",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887312.871291
+  },
+  "SENSOR_20:1780887313413": {
+    "value": {
+      "temperature": 21.85,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:13.397273",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887313.413271
+  },
+  "SENSOR_22:1780887314494": {
+    "value": {
+      "temperature": 26.04,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:14.477319",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887314.4941993
+  },
+  "SENSOR_10:1780887316627": {
+    "value": {
+      "temperature": 43.11,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:16.611781",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887316.6357868
+  },
+  "SENSOR_18:1780887317163": {
+    "value": {
+      "temperature": 40.25,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:17.147228",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887317.1630585
+  },
+  "SENSOR_12:1780887317699": {
+    "value": {
+      "temperature": 41.19,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:17.683748",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887317.6997483
+  },
+  "SENSOR_25:1780887319309": {
+    "value": {
+      "temperature": 44.12,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:19.294053",
+      "location": "Room_B",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887319.309742
+  },
+  "SENSOR_08:1780887320389": {
+    "value": {
+      "temperature": 24.29,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:20.373563",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887320.3952394
+  },
+  "SENSOR_04:1780887320923": {
+    "value": {
+      "temperature": 36.26,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:20.907114",
+      "location": "Outdoor",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887320.9291768
+  },
+  "SENSOR_03:1780887321468": {
+    "value": {
+      "temperature": 24.03,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:21.451716",
+      "location": "Room_A",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887321.4683082
+  },
+  "SENSOR_01:1780887324125": {
+    "value": {
+      "temperature": 29.03,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:24.109325",
+      "location": "Outdoor",
+      "status": "normal"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887324.125448
+  },
+  "SENSOR_16:1780887327358": {
+    "value": {
+      "temperature": 19.51,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:27.342613",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887327.358964
+  },
+  "SENSOR_07:1780887328961": {
+    "value": {
+      "temperature": 33.75,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:28.946066",
+      "location": "Room_B",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887328.9677644
+  },
+  "SENSOR_23:1780887330042": {
+    "value": {
+      "temperature": 40.79,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:30.026851",
+      "location": "Room_B",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887330.0428572
+  },
+  "SENSOR_13:1780887332185": {
+    "value": {
+      "temperature": 19.01,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:32.170026",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887332.185862
+  },
+  "SENSOR_11:1780887333247": {
+    "value": {
+      "temperature": 23.95,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:33.231869",
+      "location": "Outdoor",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887333.2561855
+  },
+  "SENSOR_13:1780887333793": {
+    "value": {
+      "temperature": 35.98,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:33.777723",
+      "location": "Warehouse",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887333.8023684
+  },
+  "SENSOR_05:1780887334325": {
+    "value": {
+      "temperature": 26.26,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:34.323303",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887334.3255973
+  },
+  "SENSOR_05:1780887334853": {
+    "value": {
+      "temperature": 39.53,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:34.840870",
+      "location": "Warehouse",
+      "status": "critical"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887334.8618884
+  },
+  "SENSOR_22:1780887335396": {
+    "value": {
+      "temperature": 20.22,
+      "unit": "°C",
+      "timestamp": "2026-06-08T09:55:35.380797",
+      "location": "Room_A",
+      "status": "warning"
+    },
+    "clock": {
+      "gateway": 1
+    },
+    "timestamp": 1780887335.3965468
   }
 }

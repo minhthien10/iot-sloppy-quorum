@@ -8,8 +8,8 @@ from src.config import DATA_DIR
 class Node:
     def __init__(self, node_id: str):
         self.id = node_id
-        self.store = {}                    # key -> (value, vector_clock, timestamp)
-        self.hints = defaultdict(list)     # target_node_id -> list of (key, value, clock_dict, timestamp)
+        self.store = {}                    
+        self.hints = defaultdict(list)    
         
         self.db_file = os.path.join(DATA_DIR, f"{node_id}_db.json")
         self.hints_file = os.path.join(DATA_DIR, f"{node_id}_hints.json")
@@ -69,8 +69,8 @@ class Node:
 
     def put(self, key: str, value: dict, clock: VectorClock):
         current = self.store.get(key)
-        if current and current[1] > clock:   # current dominates new
-            return False  # reject old version
+        if current and current[1] > clock:   
+            return False  
 
         self.store[key] = (value, clock, time.time())
         self.save_data()
